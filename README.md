@@ -1,5 +1,5 @@
 # Localization using Hybrid Wi-Fi/Bluetooth RSS dataset estimator
-This project is the final homework for the subject Data Analytics at Università degli Studi di Napoli "Federico II".
+This project is the final homework for the subject Data Analytics at Università degli Studi di Napoli "Federico II", academic year 2023-2024.
 
 ### Group
 | # | First name | Last name |
