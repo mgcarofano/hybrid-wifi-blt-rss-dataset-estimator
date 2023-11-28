@@ -5,9 +5,9 @@ This project is the final homework for the subject Data Analytics at Università
 
 | # | First name | Last name | Email |
 | --- | --- | --- | --- |
-| 1 | Mario Gabriele | Carofano | mailto:m.carofano@studenti.unina.it |
+| 1 | Mario Gabriele | Carofano | [*m.carofano@studenti.unina.it*](mailto:m.carofano@studenti.unina.it) |
 | 2 | Siep | Dokter |  |
-| 3 | Emil | Jousimaa | mailto:emil.jousimaa@gmail.com |
+| 3 | Emil | Jousimaa | [*emil.jousimaa@gmail.com*](mailto:emil.jousimaa@gmail.com) |
 | 4 | Oleksandr | Sosovskyy |  |
 
 ### Paper
