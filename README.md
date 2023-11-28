@@ -2,12 +2,13 @@
 This project is the final homework for the subject Data Analytics at Università degli Studi di Napoli "Federico II", academic year 2023-2024.
 
 ### Group
-| # | First name | Last name |
-| --- | --- | --- |
-| 1 | Mario Gabriele | Carofano |
-| 2 | Siep | Dokter |
-| 3 | Emil | Jousimaa |
-| 4 | Oleksandr | Sosovskyy |
+
+| # | First name | Last name | Email |
+| --- | --- | --- | --- |
+| 1 | Mario Gabriele | Carofano | mailto:m.carofano@studenti.unina.it |
+| 2 | Siep | Dokter |  |
+| 3 | Emil | Jousimaa | mailto:emil.jousimaa@gmail.com |
+| 4 | Oleksandr | Sosovskyy |  |
 
 ### Paper
 **A Hybrid WiFi/Bluetooth RSS Dataset with Application to Multilateration-Based Localization**
