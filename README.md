@@ -6,9 +6,9 @@ This project is the final homework for the subject Data Analytics at Università
 | # | First name | Last name | Email |
 | --- | --- | --- | --- |
 | 1 | Mario Gabriele | Carofano | [*m.carofano@studenti.unina.it*](mailto:m.carofano@studenti.unina.it) |
-| 2 | Siep | Dokter |  |
+| 2 | Siep | Dokter | [*siepdokter@gmail.com*](mailto:siepdokter@gmail.com) |
 | 3 | Emil | Jousimaa | [*emil.jousimaa@gmail.com*](mailto:emil.jousimaa@gmail.com) |
-| 4 | Oleksandr | Sosovskyy |  |
+| 4 | Oleksandr | Sosovskyy | [*alessandrososovskyy@gmail.com*](mailto:alessandrososovskyy@gmail.com) |
 
 ### Paper
 **A Hybrid WiFi/Bluetooth RSS Dataset with Application to Multilateration-Based Localization**
