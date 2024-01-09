@@ -1,0 +1,25 @@
+## Group 2: “A Hybrid WiFi/Bluetooth RSS Dataset with Application to Multilateration-Based Localization” ##
+
+--> Three tasks taken from the following list are OK for completing the final assignment. Other relevant tasks suggested from the group can be also considered. 
+
+List of Tasks:
+
+T1) Perform a statistical characterization of the anchors' RSS values in terms of mean, median, variance, distribution, etc.
+
+T2) Estimate the path loss and reference distance parameters by exploiting a Linear model formulation as described in [R1]
+
+T3) Develop an estimator for the target localization based on the (Weighted) Linear Least Squares following the reference paper
+
+T4) Develop alternative WLLS estimators following [R2];
+
+T5) Develop an estimator for the target localization based on the Maximum Likelihood estimator;
+
+T6) Compare the performance of the same estimator in different conditions: (i) BLT only, (ii) Wifi only, (iii) Fused measurements; 
+
+
+[R1] Gustafson, C., Abbas, T., Bolin, D., & Tufvesson, F. (2015). Statistical modeling and estimation of censored pathloss data. IEEE Wireless Communications Letters, 4(5), 569-572.
+
+[R2] Wang, Yue. "Linear least squares localization in sensor networks." Eurasip journal on wireless communications and networking 2015.1 (2015): 1-7.
+
+
+ 
