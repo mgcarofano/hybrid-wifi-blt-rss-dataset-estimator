@@ -17,3 +17,10 @@ This project is the final homework for the subject Data Analytics at Università
 
 > [*https://ieeexplore.ieee.org/document/10266625*](https://ieeexplore.ieee.org/document/10266625)
 >
+
+### Requirements
+-   import-ipynb
+-   pandas
+-   numpy
+-   matplotlib
+-   scipy
