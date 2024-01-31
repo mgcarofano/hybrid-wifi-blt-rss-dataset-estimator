@@ -8,22 +8,26 @@ I punti:
 	• (M) Introduzione:  
 		○ Descrizione dell'elaborato a grandi linee (senza anticipare i risultati), riassumibili nei 6 task proposti.
 			i. Slide: 
-	• (A) Motivazione (parte teorica del paper + accento sugli obbiettivi : Wifi/Bluetooth hybrid)):
+	• (M) Motivazione (parte teorica del paper + accento sugli obbiettivi : Wifi/Bluetooth hybrid)):
 		○ Descrizione della comparazione di diversi paper per risolvere il problema della stima della posizione
 			i. Slide: riferimento all'abstract,
 	• (A) Stato dell'arte (parte tecnologica del paper): 
 		○ Parlare di RSS, e di tecnologie come WiFi Bluetooth.
 			i. Slide: tecnologie, hardware
 			ii. Valori trovati, descrizione scenario 0
-	• (A) Problema affrontato nel paper:
-		○ Task 1 (aggiungere testo nelle note):
+	• Problema affrontato nel paper:
+		(A) ○ Task 1 (aggiungere testo nelle note):
 			i. Confronto scenario A
 			ii. Confronto scenario B
 			iii. Confronto scenario C
+		(A) ○ Task 2 (vedere presentazione vecchia):
+			i. Slide 1
+			ii. Slide 2
+			iii. Slide 3
+	• (M) Contributi del paper:
 		○ Task 3 (vedere presentazione vecchia + immagini dal paper riferimento)
 			i. Figura del paper + 1 o 2 formule
 			ii. Formula dello stimatore + riferimenti a paper esterni (matrice delle covarianze/pesi W).
-	• (M) Contributi del paper: 
 		○ Cosa introduce di nuovo (Fusion e ibridizzazione):
 			i. Spiegare ibridizzazione proposta con N = 2 N_anchors
 	• (M) Risultati:
@@ -31,10 +35,6 @@ I punti:
 			i. Formula RMSE (Come nella presentazione vecchia)
 			ii. 3 Scenari RMSE del WLS
 	• Contributo del team:
-		(M) ○ Task 2 (vedere presentazione vecchia): 
-			i. Slide 1
-			ii. Slide 2
-			iii. Slide 3
 		(M) ○ Task 4
 			i. Spiegazione WLLS I + step one + step two
 			ii. 3 Scenari RMSE WLLS I step I
