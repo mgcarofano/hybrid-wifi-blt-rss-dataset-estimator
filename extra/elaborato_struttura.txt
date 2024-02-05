@@ -6,11 +6,12 @@ I punti:
 		○ Indice macro argomenti successivi (content table di Latex, ad esempio)
 			i. Slide con l'indice
 	• (M) Introduzione:  
-		○ Descrizione dell'elaborato a grandi linee (senza anticipare i risultati), riassumibili nei 6 task proposti.
-			i. Slide: 
+		○ Descrizione dell'elaborato a grandi linee (senza anticipare i risultati)
+			i. Slide: riferimento all'abstract
 	• (M) Motivazione (parte teorica del paper + accento sugli obbiettivi : Wifi/Bluetooth hybrid)):
 		○ Descrizione della comparazione di diversi paper per risolvere il problema della stima della posizione
-			i. Slide: riferimento all'abstract,
+			i. Slide: paper studiati
+			ii. Slide: 6 task proposti
 	• (A) Stato dell'arte (parte tecnologica del paper): 
 		○ Parlare di RSS, e di tecnologie come WiFi Bluetooth.
 			i. Slide: tecnologie, hardware
